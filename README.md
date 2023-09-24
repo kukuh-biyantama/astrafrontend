@@ -1,21 +1,22 @@
 <p>Proses Instalasi</p>
--install composer
--npm install
--migrate sesuaidengan env
--jalankan database seeder 
+- install composer
+- npm install
+- migrate sesuaidengan env
+- jalankan database seeder 
 php artisan migrate:fresh --seed
--php artisan serve
+- php artisan serve
 
 <p>Proses Login</p>
-untuk login:
-jalankan database seeder pada frontend ini:
-login user:
-email:user@example.com
-pass:password
+- untuk login:
+- jalankan database seeder pada frontend ini:
+- login user:
+- email:user@example.com
+- pass:password
 
 login admin:
-email:admin@example.com
-pass:password
+
+-   email:admin@example.com
+-   pass:password
 
 ## About Laravel
 
